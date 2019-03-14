@@ -32,6 +32,11 @@
 - [react-music-webapp](https://github.com/neroneroffy/react-music-webapp)
 
 
+
+## react SSR
+- [egg-react-webpack-boilerplate](https://github.com/easy-team/egg-react-webpack-boilerplate)
+
+
 ## 参考
 - [awesome-react](https://github.com/enaqx/awesome-react)
 - [awesome-react-components](https://github.com/brillout/awesome-react-components)
