@@ -28,6 +28,12 @@
   - react@16.5.2 + redux@3.7.2 + react-router@3.2.0 + webpack@3.10.0 + axios@0.18.0 + less@2.7.1 + antd@3.10.1
 - [yezihaohao/react-admin](https://github.com/yezihaohao/react-admin)
 
+- [marmelab/react-admin](https://github.com/marmelab/react-admin)
+  - [https://marmelab.com/react-admin/](https://marmelab.com/react-admin/)
+  - Powered by material-ui, redux, redux-form, redux-saga, react-router, recompose, reselect and a few more
+
+- [jiangxy/react-antd-admin](https://github.com/jiangxy/react-antd-admin)
+
 ### 移动端项目 demo
 - [react-music-webapp](https://github.com/neroneroffy/react-music-webapp)
 
