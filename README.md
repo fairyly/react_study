@@ -19,6 +19,7 @@
 
 ### react native（React Native UI Toolkit ）
 - [react-native-elements](https://github.com/react-native-training/react-native-elements)
+- [React Native 模仿网易云音乐](https://github.com/yezihaohao/NeteaseCloudMusic)
 
 ## react 学习
 - [learn-react-app](https://github.com/tyroprogrammer/learn-react-app)
