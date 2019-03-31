@@ -9,6 +9,9 @@
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
 - [shineout](https://github.com/sheinsight/shineout)
 
+- [富文本: jpuri/react-draft-wysiwyg](https://github.com/jpuri/react-draft-wysiwyg)
+- [多个 class 判断:JedWatson/classnames](https://github.com/JedWatson/classnames)
+
 ### 移动端
 
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile)
