@@ -491,4 +491,4 @@ React 并不会像 DOM0 级事件那样将事件处理器直接绑定到 HTML �
    
    
    ## 参考  
-   - [深入 React 技术栈](https://github.com/fairyly/react_study/blob/master/%E6%B7%B1%E5%85%A5React%E6%8A%80%E6%9C%AF%E6%A0%88.pdf)
+   - [深入 React 技术栈](https://fairyly.github.io/react_study/%E6%B7%B1%E5%85%A5React%E6%8A%80%E6%9C%AF%E6%A0%88.pdf)
